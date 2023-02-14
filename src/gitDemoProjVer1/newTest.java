@@ -1,10 +1,9 @@
 package gitDemoProjVer1;
 
-public class Test1 {
+public class newTest {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
-		System.out.println("Hello World from tester !!!");
+		System.out.println("HELLOWORLDWOROWOWOWOWO");
 	}
-
 }
